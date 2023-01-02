@@ -1,0 +1,1 @@
+Linked List allocation solves all problems of contiguous allocation. In linked list allocation, each file is considered as the linked list of disk blocks.
